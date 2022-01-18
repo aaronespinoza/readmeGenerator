@@ -21,4 +21,6 @@
   ## Questions
   If you have any questions, contact me at github.com/aaronespinoza or email me at 
   aarone@berkeley.edu
+  ## App Walkthrough Video
+  https://watch.screencastify.com/v/IQpLEFzWVJsHtQPoQ67c
   
